@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+# Datos e imágenes de casos: no se suben sin verificar fuente y licencia (riesgos R3 y R6)
+server/data/
+server/uploads/

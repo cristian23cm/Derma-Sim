@@ -1,0 +1,8 @@
+tsp|0e7c86|Actividad de la Lista de Actividades (TSP)
+defecto|d73a4a|Defecto registrado (bitácora LOGD)
+fase:gestion|5b6b7b|Gestión del proyecto
+fase:analisis|548235|Etapa de Análisis
+fase:diseno|bf9000|Etapa de Diseño
+fase:construccion|c55a11|Etapa de Construcción
+fase:pruebas|7030a0|Etapa de Pruebas
+fase:documentacion|1f6f8b|Documentación y cierre
