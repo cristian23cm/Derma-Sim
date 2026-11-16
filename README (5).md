@@ -23,12 +23,16 @@ especialidades, integraciones institucionales y aplicaciones móviles nativas.
 | Tutor de IA | Servicio de IA generativa externo, siempre mediante un adaptador |
 | Despliegue | Railway (PaaS) y GitHub Actions para integración continua |
 
+## Diseño de la interfaz
+Prototipo y pantallas de la interfaz en Figma: [Derma-Sim en Figma](https://www.figma.com/design/wPYIHqBJjgnFinKgN0upEv/Derma-Sim?node-id=0-1&t=6zXniUoQ0qKCAXAq-1).
+Detalle en [`docs/diseno/figma.md`](docs/diseno/figma.md).
+
 ## Estructura del repositorio
 ```
 derma-sim/
 ├── client/        Interfaz web (Vue 3)
 ├── server/        API REST, modelos, servicios y subsistema del tutor de IA (con pruebas)
-├── docs/          Documentación del proyecto (gestión y diseño) y datos de planeación
+├── docs/          Documentación del proyecto (gestión y diseño, enlace al diseño en Figma) y datos de planeación
 ├── scripts/       Utilidades (creación de Issues y Milestones en GitHub)
 └── .github/       Integración continua y plantillas de Issues y Pull Requests
 ```

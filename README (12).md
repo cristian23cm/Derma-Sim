@@ -9,6 +9,7 @@
 | `gestion/` | Plan de Gestión de Calidad | Métricas y metas de calidad, revisiones y control de configuración |
 | `gestion/` | Plan para la Dirección del Proyecto | Integra los planes subsidiarios y las líneas base |
 | `diseno/` | Informe de Patrones de Diseño Aplicados | Nueve patrones del diseño, su aplicación y verificación |
+| `diseno/` | Diseño de la interfaz (Figma) | Enlace al prototipo y relación de las pantallas con los módulos del sistema |
 | `planeacion/` | `actividades.tsv`, `hitos.tsv` | Datos para crear los Issues y Milestones en GitHub (`scripts/crear-issues.sh`) |
 
 Los documentos son versión 1.0 y cambian solo mediante el proceso de control de cambios del Plan de Gestión del Alcance.
